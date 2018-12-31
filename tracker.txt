@@ -1,0 +1,5 @@
+31 December, 2019
+-> I created a new react app
+-> Created GH repo for it
+-> Pushed repo to origin
+-> Added description for this project
