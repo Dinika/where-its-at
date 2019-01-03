@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import { Header, Button } from 'semantic-ui-react';
+import Layout from './containers/Layout/Layout';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <Header as='h1'>Where it's at?</Header>
+        <Layout />
       </div>
     );
   }
