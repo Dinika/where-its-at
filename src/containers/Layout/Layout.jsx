@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import Aux from '../../HOC/Aux/Aux';
 
 class Layout extends Component {
     render() {
         return (
-            <div>
+            <Aux>
                 <div>Header</div>
                 <div>SearchBox</div>
                 <ul>
@@ -11,7 +12,7 @@ class Layout extends Component {
                     <li>Account 2</li>
                 </ul>
                 <div>table</div>
-            </div>
+            </Aux>
         )
     }
 }

@@ -12,3 +12,10 @@
 2 January, 2019
 -> Chose Semantic UI as design framework
 -> Added <Header /> to check
+
+3 January, 2019
+-> Implement layout for the homepage
+
+4 January, 2019
+-> Add Auxilary Higher Order Component
+-> Wrap layout contents with Aux
