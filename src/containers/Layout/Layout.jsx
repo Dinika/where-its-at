@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import Aux from '../../HOC/Aux/Aux';
+import TopMenu from '../../components/TopMenu/TopMenu';
 
 class Layout extends Component {
     render() {
         return (
             <Aux>
-                <div>Header</div>
+                <TopMenu />
                 <div>SearchBox</div>
                 <ul>
                     <li>Account 1</li>
